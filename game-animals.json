@@ -9,7 +9,7 @@
     "dataYear": 2025,
     "warning_es": "Temporadas, cuotas y zonas son REFERENCIALES. Verifique SIEMPRE la resolución vigente en sag.gob.cl",
     "warning_en": "Seasons, quotas and zones are REFERENTIAL. ALWAYS verify current resolution at sag.gob.cl",
-    "updateUrl": ""
+    "updateUrl": "https://gjalken.github.io/ballistic-data/game-animals.json"
   },
   "animals": [
     {
