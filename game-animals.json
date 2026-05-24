@@ -101,7 +101,7 @@
       "region": "CL",
       "status": "regulada",
       "vitalZoneCm": 5.0,
-      "minEnergyFPE": 50,
+      "minEnergyFPE": 15,
       "weightKg": 1.2,
       "regulations": [
         { "zone": "V — VIII Región", "season": "1 Abr — 31 Ago", "quota": "5/día" }
@@ -116,7 +116,7 @@
       "region": "CL",
       "status": "regulada",
       "vitalZoneCm": 5.0,
-      "minEnergyFPE": 40,
+      "minEnergyFPE": 12,
       "weightKg": 0.7,
       "regulations": [
         { "zone": "IV — VII Región", "season": "1 Abr — 31 Jul", "quota": "10/día" },
@@ -132,7 +132,7 @@
       "region": "CL",
       "status": "regulada",
       "vitalZoneCm": 4.0,
-      "minEnergyFPE": 30,
+      "minEnergyFPE": 10,
       "weightKg": 0.4,
       "regulations": [
         { "zone": "IV — VII Región", "season": "1 Abr — 31 Jul", "quota": "10/día" },
@@ -148,7 +148,7 @@
       "region": "CL",
       "status": "regulada",
       "vitalZoneCm": 5.0,
-      "minEnergyFPE": 40,
+      "minEnergyFPE": 12,
       "weightKg": 0.6,
       "regulations": [
         { "zone": "IV — VII Región", "season": "1 Abr — 31 Jul", "quota": "10/día" },
@@ -272,7 +272,7 @@
       "region": "CL",
       "status": "dañina",
       "vitalZoneCm": 7.0,
-      "minEnergyFPE": 18,
+      "minEnergyFPE": 12,
       "weightKg": 3.5,
       "regulations": [
         { "zone": "Nacional", "season": "Todo el año", "quota": "Sin límite" }
