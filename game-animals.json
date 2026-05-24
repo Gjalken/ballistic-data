@@ -2,8 +2,11 @@
   "meta": {
     "sources": [
       "SAG Chile - Ley de Caza N° 19.473, DS 05/1998",
-      "Argentina - Ley Nacional de Fauna N° 22.421",
-      "BASC, AAHC, CIC, US State Wildlife Agencies"
+      "BASC (British Association for Shooting & Conservation) — airgun energy guidelines",
+      "AAHC (American Airgun Hunting Council) — species energy tables",
+      "Umarex USA — airgun hunting energy recommendations",
+      "US State Wildlife Agencies (TPWD, CDFW, ODFW) — rifle minimums",
+      "CIC (International Council for Game and Wildlife Conservation)"
     ],
     "lastUpdated": "2025-01",
     "dataYear": 2025,
@@ -332,7 +335,7 @@
       "region": "CL",
       "status": "especial",
       "vitalZoneCm": 10.0,
-      "minEnergyFPE": 40,
+      "minEnergyFPE": 25,
       "weightKg": 3.5,
       "regulations": [
         { "zone": "XII Región (T. del Fuego)", "season": "Todo el año", "quota": "Sin límite" },
